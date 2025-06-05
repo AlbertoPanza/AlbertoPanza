@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/40873118-6eb0-4f7d-b0db-b8dde81510e9)
+
 # 👋 Hey, I'm Alberto Panza
 
 🎸 Former pro musician turned 🧠 self-taught Python developer  
